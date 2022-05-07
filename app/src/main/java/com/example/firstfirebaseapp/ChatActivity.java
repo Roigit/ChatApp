@@ -88,7 +88,7 @@ public class ChatActivity extends AppCompatActivity {
     }
 
     private void sendCloudMessage(chatMessage m) {
-        String serverKey = "AAAAb56jlIg:APA91bEqRzWIEH_jiNEU1cfmYVcbn9-MjkEQxNIoSrQ9kvbcL82EASna8Rwv4CxDDX9BUCEEHINQos74GIH9vFUaD-bTc2wq01JdWpOfDaLlwh9Twm7BaH7WtL4P5vxq5mEnEJhiCmbB";
+        String serverKey = "AAAAVGa2Wig:APA91bHzrO8xdfNsCu0NkYuo9zPRbzpxVxJ8SU9A4kCvLfUO7xjVHJwoXBjuqAX8DTSk9ONkJXz3sP4FDWN-jATALy0iWCbk_hGvxocwfNPjkQJCZx8YVKDgfjCabHpOvI2o7xVFCHwD";
         String topic = "chat";
 
         JSONObject json = new JSONObject();
